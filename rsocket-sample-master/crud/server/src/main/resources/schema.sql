@@ -1,0 +1,2 @@
+
+CREATE TABLE posts(id SERIAL PRIMARY KEY, name VARCHAR(255), number VARCHAR(255));

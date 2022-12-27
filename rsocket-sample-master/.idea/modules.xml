@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crud/client/rsocket-sample-boot-crud-client.iml" filepath="$PROJECT_DIR$/crud/client/rsocket-sample-boot-crud-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud/server/rsocket-sample-boot-crud-server.iml" filepath="$PROJECT_DIR$/crud/server/rsocket-sample-boot-crud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rsocket-sample-master.iml" filepath="$PROJECT_DIR$/.idea/rsocket-sample-master.iml" />
+    </modules>
+  </component>
+</project>
